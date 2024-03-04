@@ -1,5 +1,5 @@
 .home{
-  background-color: #df382c;
+  background-color: #000000;
   min-height: 100vh;
   max-height: 100%;
   display: flex;
@@ -7,8 +7,11 @@
   align-items: center;
 }
 .main{
-  background-color: #2086c1;
+  background-color: #150050;
   height: 90vh;
   width: 95%;
   border-radius: 30px;
+}
+.App {
+  text-color: white;
 }

@@ -12,11 +12,11 @@ export const HeroSection = () => {
                 <div className='intro'>
                     <br />
                     <span id="text">
-                        <span style={{color:'#F28482',fontSize:'78px',fontWeight:'800'}}>Y</span>our Premier Destination for Online Shopping!
+                        <span style={{color:'#99BC85',fontSize:'78px',fontWeight:'800'}}>Y</span>our Premier Destination for Online Shopping!
                     </span>
                     <br />
                     <span id='sub-heading'>
-                        <span style={{color:'#84A59D',fontSize:'58px',fontWeight:'700'}}>E</span>xplore a World of Convenience and Choice, Delivered to Your Doorstep
+                        <span style={{color:'#1C82AD',fontSize:'58px',fontWeight:'700'}}>E</span>xplore a World of Convenience and Choice, Delivered to Your Doorstep
                     </span>
                 </div>
                 <div className="bannerContainer">

@@ -17,8 +17,10 @@
     font-family: Montserrat;
 }
 #text{
-    font-size: 48px;
+    font-size: 46px;
     font-weight: bold;
+    color: #C5EBAA;
+    font-family: "Kode Mono";
 }
 .address{
     margin-top: 10px;
@@ -34,7 +36,8 @@
 #sub-heading{
     font-size: x-large;
     font-weight: 500;
-    color: #F6BD60;
+    color: #B6EADA;
+    font-family: "Kode Mono";
 }
 .cardContainer{
     position: absolute;
@@ -53,7 +56,7 @@
 .more{
     height: 70px;
     width: 70px;
-    background-color: #F28482;
+    background-color: #FB2576;
     border-radius: 50%;
     display: flex;
     justify-content: center;

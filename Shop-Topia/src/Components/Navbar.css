@@ -13,9 +13,9 @@
 }
 
 .logo img {
-    height: 90px;
-    width: 90px;
-    border-radius: 0px 0px 20px 20px;
+    height: 70px;
+    width: 80px;
+    border-radius: 20px 20px;
 }
 
 nav {
@@ -39,9 +39,10 @@ nav {
 
 .menu ul li {
     list-style-type: none;
-    font-family: Montserrat;
+    font-family: "Michroma";
     font-size: 18px;
     font-weight: 500;
+    color: #ffffff;
 }
 
 .accounts ul {
@@ -53,13 +54,13 @@ nav {
 .accounts ul li,
 button {
     list-style-type: none;
-    font-family: Montserrat;
+    font-family: Michroma;
     font-size: 18px;
     font-weight: 600;
     width: 120px;
     height: 40px;
     border: none;
-    background-color: #F6BD60;
+    background-color: #FB2576;
     border-radius: 30px;
     cursor: pointer;
     color: #F7EDE2;
@@ -68,7 +69,7 @@ button {
 
 nav ul li a {
     position: relative;
-    color: #de0000; /* Change the color of the text */
+    color: #000000; /* Change the color of the text */
     text-decoration: none; /* Remove underline */
     transition: color 0.3s ease; /* Smooth transition for color change */
 }

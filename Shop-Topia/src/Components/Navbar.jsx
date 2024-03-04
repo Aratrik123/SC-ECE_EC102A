@@ -14,7 +14,7 @@ export const Navbar = () => {
                     <li>Categories</li>
                     <li>Featured</li>
                     <li>About Us</li>
-                    <li style={{ color: '#84A59D' }}>+91-8955XXXXXX</li>
+                    <li style={{ color: '#84A59D' }}>Contact</li>
                 </ul>
             </div>
             <div className="accounts">

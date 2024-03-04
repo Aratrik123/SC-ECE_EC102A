@@ -3,7 +3,7 @@ import './HeroSection.css'
 import { Card } from './Card'
 import banner from '../Images/banner.jpg'
 import phone from '../Images/phone.jpg'
-import earphone from '../Images/earphone.jpg'
+import earphone from '../Images/earphones.jpg'
 
 export const HeroSection = () => {
     return (
